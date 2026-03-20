@@ -9,6 +9,8 @@ My engineering philosophy centers on the .NET ecosystem, cloud-native scalabilit
 🔭🤖🔎 AI & Search      Implementing RAG pipelines and vector search with TypeSense for ultra-fast, intelligent content discovery.
 ☁️ Cloud Platforms  Architecting scalable Azure Kubernetes Service (AKS) environments for enterprise reliability.
 🛒 E-Commerce       High-volume transactional systems supporting multi-million euro revenue streams.
+<br/>
+<br/>
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ganesh-Chavan&show_icons=true)](https://github.com/Ganesh-Chavan)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=1a3a5c&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ganesh+Chavan+%F0%9F%91%8B;CTO+%7C+AI+%26+Cloud+Architect;.NET+%7C+Azure+%7C+Kubernetes+%7C+RAG;18%2B+Years+Building+at+Scale" alt="Typing SVG" />

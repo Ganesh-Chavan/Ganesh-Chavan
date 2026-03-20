@@ -5,11 +5,13 @@
 Mastered Tech Stack
 My engineering philosophy centers on the .NET ecosystem, cloud-native scalability with Azure/AKS, and cutting-edge AI integration.
 
-
-🔭🤖🔎 AI & Search      Implementing RAG pipelines and vector search with TypeSense for ultra-fast, intelligent content discovery.
-☁️ Cloud Platforms  Architecting scalable Azure Kubernetes Service (AKS) environments for enterprise reliability.
-🛒 E-Commerce       High-volume transactional systems supporting multi-million euro revenue streams.
 <br/>
+🔭🤖🔎 AI & Search      Implementing RAG pipelines and vector search with TypeSense for ultra-fast, intelligent content discovery.
+<br/>
+☁️ Cloud Platforms  Architecting scalable Azure Kubernetes Service (AKS) environments for enterprise reliability.
+<br/>
+🛒 E-Commerce       High-volume transactional systems supporting multi-million euro revenue streams.
+<hr/>
 <br/>
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ganesh-Chavan&show_icons=true)](https://github.com/Ganesh-Chavan)
 

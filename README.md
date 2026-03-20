@@ -11,7 +11,7 @@ My engineering philosophy centers on the .NET ecosystem, cloud-native scalabilit
 ☁️ Cloud Platforms  Architecting scalable Azure Kubernetes Service (AKS) environments for enterprise reliability.
 <br/>
 🛒 E-Commerce       High-volume transactional systems supporting multi-million euro revenue streams.
-<hr/>
+<br/>
 <br/>
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ganesh-Chavan&show_icons=true)](https://github.com/Ganesh-Chavan)
 
